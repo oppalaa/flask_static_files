@@ -1,0 +1,10 @@
+h1
+{  
+     color: ghostwhite;
+     background: linear-gradient(90deg,yellow,red,hotpink);
+}
+img
+{
+    height: 600px;
+    width: 600px;
+}
